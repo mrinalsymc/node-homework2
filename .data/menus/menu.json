@@ -1,0 +1,17 @@
+[
+    {
+      "id": "menuItem1",
+      "description": "menuItem1-description",
+      "price": "$1.99"
+    },
+    {
+      "id": "menuItem2",
+      "description": "menuItem2-description",
+      "price": "$2.99"
+    },
+    {
+      "id": "menuItem3",
+      "description": "menuItem3-description",
+      "price": "$3.99"
+    }
+]

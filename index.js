@@ -64,7 +64,8 @@ unifiedServerHandling = (req, res) => {
 router = {
     'users' : handlers.users,
     'login' : handlers.login,
-    'logout': handlers.logout
+    'logout': handlers.logout,
+    'menu': handlers.menu
 }
 
 httpServer = http.createServer(function(req, res) {
