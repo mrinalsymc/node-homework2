@@ -65,7 +65,8 @@ router = {
     'users' : handlers.users,
     'login' : handlers.login,
     'logout': handlers.logout,
-    'menu': handlers.menu
+    'menu': handlers.menu,
+    'additem': handlers.additem
 }
 
 httpServer = http.createServer(function(req, res) {
