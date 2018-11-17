@@ -1,17 +1,17 @@
 [
     {
-      "id": "menuItem1",
-      "description": "menuItem1-description",
-      "price": 1.99
+      "id": "p1",
+      "description": "Pepporoni delight",
+      "price": 4.99
     },
     {
-      "id": "menuItem2",
-      "description": "menuItem2-description",
-      "price": 2.99
+      "id": "p2",
+      "description": "Chicken Barbecue",
+      "price": 8.99
     },
     {
-      "id": "menuItem3",
-      "description": "menuItem3-description",
-      "price": 3.99
+      "id": "p3",
+      "description": "Vegeterian Paradise",
+      "price": 8.99
     }
 ]
