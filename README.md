@@ -132,4 +132,4 @@ curl -X POST \
 ```
 We are using a test `Stripe token = tok_visa` in our case.
 
-Once the payment is done a mail will be sent to the users email along with the items which the user had added. Also the shopping cart will be deleted.
+Once the payment is done a mail will be sent to the users email (using mailgun, be sure to look at lib/config.js. you will have to change those settings) along with the items which the user had added. Also the shopping cart will be deleted.
