@@ -7,7 +7,6 @@ This can be used to create, edit and delete a user
 ```
 curl -X POST \
   http://localhost:3000/users \
-  -H 'token: hp9yr5ncne22ec3xn7jo' \
   -d '{
 	"name":"mrinal",
 	"email":"mrinalr@gmail.com",
